@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>eventstore</id>
+    <version>3.0.0.3</version>
+    <title>eventstore</title>
+    <authors>joshua gough</authors>
+    <owners>geteventstore</owners>
+    <licenseUrl>http://www.geteventstore.com</licenseUrl>
+    <projectUrl>http://www.geteventstore.com</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>event store windows version</description>
+    <summary>eventstore</summary>
+    <releaseNotes />
+    <copyright />
+    <tags>eventstore</tags>
+  </metadata>
+</package>
